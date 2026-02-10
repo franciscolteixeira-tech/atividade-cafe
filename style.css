@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.estruturta-texto{
+    align-items: center;
+    font-size: large;
+    width: 1700px;
+    height: 90px;
+    justify-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 2px;
+}
